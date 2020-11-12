@@ -1,0 +1,11 @@
+## Interface: 80300
+## Author: Spade
+## Version: 9.0.1
+## Title: Wayfinder
+## Notes: Simple waypoint command addon. Type /way X, Y to create a Shadowlands map marker.
+## License: MIT
+
+libs\HereBeDragons\LibStub\LibStub.lua
+libs\HereBeDragons\HereBeDragons-2.0.lua
+
+Wayfinder.lua
